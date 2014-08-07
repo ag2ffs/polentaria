@@ -1,12 +1,8 @@
 body{
 	padding: 0;
 	margin: 0;
-	background: url("../img/home.jpg") no-repeat;
+	background: url("../img/prato-de-hoje.jpg") no-repeat center -50px;
 	background-size: cover;
-}
-
-img{
-	width: 100%
 }
 
 h1{
