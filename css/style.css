@@ -2,8 +2,59 @@ body{
 	padding: 0;
 	margin: 0;
 	text-align: center;
+  background: url(../img/bg-polentaria.png) no-repeat;
+  background-size: cover;
 }
 
-h1{
-	display: none;
+h1 a{
+  display: block;
+  width: 151px;
+  height: 151px;
+  background: url(../img/logotipo-polentaria.png) no-repeat;
+  text-indent: -90000000px;
+  margin: 100px auto;
+}
+
+h2{
+  display: block;
+  width: 943px;
+  height: 153px;
+  background: url(../img/amamos-polenta-polentaria.png) no-repeat;
+  text-indent: -90000000px;
+  margin: 0 auto;
+}
+
+h3{
+  display: block;
+  width: 391px;
+  height: 24px;
+  background: url(../img/quem-ama-segue.png) no-repeat;
+  text-indent: -90000000px;
+  margin: 200px auto 0 auto;
+}
+
+.social{
+  width: 165px;
+  margin: 20px auto 200px auto;
+}
+
+.redes{
+  display: block;
+  width: 42px;
+  height: 42px;
+  text-indent: -900000px;
+  float: left;
+  margin: 0 10px 0 0;
+}
+
+.fb{
+  background: url(../img/icon-fb.png) no-repeat;
+}
+
+.insta{
+  background: url(../img/icon-instagram.png) no-repeat;
+}
+
+.twitter{
+  background: url(../img/icon-twitter.png) no-repeat;
 }
